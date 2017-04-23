@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KolkoIKrzyzyk.iml" filepath="$PROJECT_DIR$/KolkoIKrzyzyk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjektZespolowy.iml" filepath="$PROJECT_DIR$/ProjektZespolowy.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
