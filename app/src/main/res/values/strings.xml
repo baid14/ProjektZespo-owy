@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KolkoIKrzyzyk</string>
+    <string name="facebook_app_id" translatable="false">400559883647211</string>
 </resources>
