@@ -1,4 +1,4 @@
-package com.example.baid.kolkoikrzyzyk;
+package com.example.baidMarcinos.kolkoikrzyzyk;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

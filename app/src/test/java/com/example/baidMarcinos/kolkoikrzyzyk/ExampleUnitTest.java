@@ -1,4 +1,4 @@
-package com.example.baid.kolkoikrzyzyk;
+package com.example.baidMarcinos.kolkoikrzyzyk;
 
 import org.junit.Test;
 

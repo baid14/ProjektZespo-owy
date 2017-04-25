@@ -1,9 +1,9 @@
-package com.example.baid.kolkoikrzyzyk;
+package com.example.baidMarcinos.kolkoikrzyzyk;
 
 import android.content.Intent;
+import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 
@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         firebaseAuth = FirebaseAuth.getInstance();
         if(firebaseAuth.getCurrentUser() != null){
             //user already signed in
-            
+
             Log.d("AUTH", firebaseAuth.getCurrentUser().getEmail());
 
         }
@@ -31,7 +31,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             startActivityForResult(AuthUI.getInstance()
                     .createSignInIntentBuilder()
                     .setProviders(
-                            AuthUI.FACEBOOK_PROVIDER)
+                            AuthUI.FACEBOOK_PROVIDER
+                    )
                     .build(), RC_SIGN_IN);
         }
         findViewById(R.id.log_out_button).setOnClickListener(this);
@@ -67,5 +68,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     });
         }
     }
-}
 
+}

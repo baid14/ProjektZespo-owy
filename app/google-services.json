@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "1001479025962",
-    "firebase_url": "https://tictactoeapp-1a2b3.firebaseio.com",
-    "project_id": "tictactoeapp-1a2b3",
-    "storage_bucket": "tictactoeapp-1a2b3.appspot.com"
+    "project_number": "826149781774",
+    "firebase_url": "https://tictactoeprojzesp.firebaseio.com",
+    "project_id": "tictactoeprojzesp",
+    "storage_bucket": "tictactoeprojzesp.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1001479025962:android:5669372130a4bc43",
+        "mobilesdk_app_id": "1:826149781774:android:62ee3b3621eec038",
         "android_client_info": {
-          "package_name": "com.example.baid.kolkoikrzyzyk"
+          "package_name": "com.example.baidMarcinos.kolkoikrzyzyk"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1001479025962-ceiapfagkervs40ge54nsen92m8p6pvo.apps.googleusercontent.com",
+          "client_id": "826149781774-fvknh69i6o9oao0ug3bu3i333v6paf9h.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.baid.kolkoikrzyzyk",
+            "package_name": "com.example.baidMarcinos.kolkoikrzyzyk",
             "certificate_hash": "a2bb1c85c6c1ee502ef05e794b7c6a32edfb41f6"
           }
         },
         {
-          "client_id": "1001479025962-3giak6gsosovt9gdgkmc9b057g7j6e57.apps.googleusercontent.com",
+          "client_id": "826149781774-0efda0qfnt3ulbvhc4djlab86vc79fes.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDxL1BWrtmmu4bkQDevgY7i6xm80uPfGx4"
+          "current_key": "AIzaSyBDSGBTcfGE-AZMbmkPOE_V-Vr-f9g36jE"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "1001479025962-3giak6gsosovt9gdgkmc9b057g7j6e57.apps.googleusercontent.com",
+              "client_id": "826149781774-0efda0qfnt3ulbvhc4djlab86vc79fes.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
